@@ -39,37 +39,30 @@ The Inspector Mobile Application is built using the following cutting-edge techn
 
 Here are some key screenshots of the **Inspector Mobile Application**:
 
-1. **Home Screen**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1JgavxvA7jHm8qVk2Arq4YFgf7jMEAPbN" width="300" />
    </div>
 
-2. **Inspection Details**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1Yx-INZDzOndu_dxtcRvLyEL0vz-mvwwM" width="300" />
    </div>
 
-3. **Notification Center**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1wO0uJbbIbrTu7giMaqaFDW_I_ARE_tLq" width="300" />
    </div>
 
-4. **Application Review**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1h9PO3H9NbMZ3p4YNl1-MDmH-oaLQ74PI" width="300" />
    </div>
 
-5. **Inspection Status Update**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1zOe5SznNXwBkmN_4KEk_bJZMPRVKmi1t" width="300" />
    </div>
 
-6. **Inspector Profile**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1YVIaM7UtQd9q_CaMFTYGyUFdebXmNbed" width="300" />
    </div>
 
-7. **Real-time Notifications**  
    <div align="center">
    <img src="https://drive.google.com/uc?id=1yCB7_wMA3xhbJ69iM2LKmH-Rw_n6g6kI" width="300" />
    </div>
